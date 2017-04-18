@@ -61,7 +61,7 @@ plugins=(git)
 source $ZSH/oh-my-zsh.sh
 
 
-files=("$DOTFILES/.path" "$DOTFILES/.export" $DOTFILES/.aliases" $DOTFILES/.bash_profile"
+files=("$DOTFILES/.path" "$DOTFILES/.export" "$DOTFILES/.aliases" "$DOTFILES/.bash_profile");
 
 for file in "${files[@]}"; do
   [ -r "$file" ] && [ -f "$file" ] && source "$file";
