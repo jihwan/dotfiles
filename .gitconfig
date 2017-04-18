@@ -1,0 +1,20 @@
+[core]
+	user = jihwan
+	email = zhwan.hwang@gmail.com
+	excludesfile = /Users/zhwan/dotfiles/.gitignore_global
+
+#[alias]
+#	mylog = log --graph --decorate --pretty=oneline --abbrev-commit --all --date=relative
+
+[color]
+	ui = true
+
+[format]
+	pretty = oneline
+
+#[push]
+#	default = simple
+
+[user]
+	name = jihwan
+	email = zhwan.hwang@gmail.com
