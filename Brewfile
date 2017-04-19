@@ -9,7 +9,7 @@ brew 'git'
 brew 'git-flow'
 brew 'zsh'
 brew 'zsh-completions'
-
+brew 'coreutils'
 
 brew 'bash'
 
