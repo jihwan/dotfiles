@@ -6,6 +6,7 @@ alias reloadcli="source $HOME/.zshrc"
 alias reloaddns="dscacheutil -flushcache && sudo killall -HUP mDNSResponder"
 alias ll="$(brew --prefix coreutils)/libexec/gnubin/ls -ahlF --color --group-directories-first"
 alias ls="$(brew --prefix coreutils)/libexec/gnubin/ls -a --color --group-directories-first"
+alias cls="clear"
 
 #-------------------------------------------------------------------------------
 # Recursively remove .DS_Store files
