@@ -13,6 +13,7 @@ brew 'coreutils'
 
 brew 'bash'
 
+brew 'yarn'
 
 brew 'wget'
 brew 'mackup'
