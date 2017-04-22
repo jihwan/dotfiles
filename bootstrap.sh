@@ -85,6 +85,14 @@ sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/to
 # [ ! -f $HOME/.zshrc ] && ln -nfs $DOTFILES/.zshrc $HOME/.zshrc
 ln -nfs $DOTFILES/.zshrc $HOME/.zshrc
 
+
+
+
+# .bash_profile
+ln -nfs $DOTFILES/.bash_profile $HOME/.bash_profile
+
+
+
 #-------------------------------------------------------------------------------
 # Install Mackup config
 #-------------------------------------------------------------------------------
