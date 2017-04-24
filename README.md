@@ -1,7 +1,7 @@
 
 ## mac setup
 
-home 경로에서 실행
+run your home path.
 
 ### backup flow
 
