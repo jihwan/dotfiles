@@ -16,6 +16,8 @@ export PATH=%PATH:/bin/:/sbin:/usr/local/bin:/usr/bin:/usr/sbin
 
 [reference](https://medium.com/@oopchoi/jdk-1-7-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EC%84%A4%EC%B9%98-6a2a8229433f)
 
+# Intellij idea
+
 # [Android Studio](Android Studio
 https://developer.android.com/studio/install.html)
 
