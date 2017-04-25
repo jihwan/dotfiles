@@ -3,7 +3,8 @@
 	email = zhwan.hwang@gmail.com
 	excludesfile = /Users/zhwan/dotfiles/.gitignore_global
 
-#[alias]
+[alias]
+	lg = log --graph --abbrev-commit --decorate --format=format:'%C(cyan)%h%C(reset) - %C(green)(%ar)%C(reset) %C(auto)%s%C(reset) %C(bold blue)<%an>%C(reset)%C(yellow)%d%C(reset)' --all
 #	mylog = log --graph --decorate --pretty=oneline --abbrev-commit --all --date=relative
 
 [color]
