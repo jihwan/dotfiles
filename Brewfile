@@ -18,7 +18,7 @@ brew 'wget'
 
 brew 'mackup'
 
-#brew 'ruby'
+brew 'ruby'
 #brew 'rbenv'
 
 #brew 'golang'
