@@ -21,3 +21,5 @@ dotfiles/bootstrap.sh
 
 mackup restore
 ```
+
+[reference](https://github.com/appkr/dotfiles)
