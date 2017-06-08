@@ -18,6 +18,9 @@ brew 'wget'
 
 brew 'mackup'
 
+brew 'sbt'
+
+brew 'python3'
 brew 'ruby'
 #brew 'rbenv'
 
