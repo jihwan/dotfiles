@@ -12,6 +12,8 @@ brew 'zsh-completions'
 brew 'coreutils'
 brew 'bash'
 
+brew 'tree'
+
 brew 'maven'
 brew 'yarn'
 brew 'wget'
