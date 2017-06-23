@@ -1,4 +1,5 @@
 tap 'caskroom/cask'
+#tap 'caskroom/fonts'
 tap 'homebrew/bundle'
 tap 'homebrew/core'
 tap 'homebrew/services'
@@ -34,3 +35,5 @@ brew 'ruby'
 cask 'evernote'
 cask 'google-chrome'
 cask 'google-drive'
+
+#cask 'font-fira-code'  #https://github.com/tonsky/FiraCode/wiki
