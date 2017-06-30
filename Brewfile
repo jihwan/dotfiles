@@ -13,6 +13,9 @@ brew 'zsh-completions'
 brew 'coreutils'
 brew 'bash'
 
+brew 'zsh-syntax-highlighting'
+brew 'zsh-autosuggestions'
+
 brew 'tree'
 
 brew 'maven'
