@@ -19,6 +19,7 @@ brew 'zsh-autosuggestions'
 brew 'tree'
 
 brew 'maven'
+brew 'ant'
 brew 'yarn'
 brew 'wget'
 
