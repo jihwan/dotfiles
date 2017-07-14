@@ -10,11 +10,11 @@ brew 'git'
 brew 'git-flow'
 brew 'zsh'
 brew 'zsh-completions'
-brew 'coreutils'
-brew 'bash'
-
 brew 'zsh-syntax-highlighting'
 brew 'zsh-autosuggestions'
+brew 'autojump'
+brew 'coreutils'
+brew 'bash'
 
 brew 'tree'
 
