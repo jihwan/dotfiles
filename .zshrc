@@ -60,7 +60,7 @@ HIST_STAMPS="yyyy-mm-dd"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git brew docker git gradle mvn node npm yarn)
+plugins=(git brew docker git gradle mvn node npm yarn autojump)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -105,3 +105,4 @@ unset files file;
 
 source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+source /usr/local/share/autojump/autojump.zsh
